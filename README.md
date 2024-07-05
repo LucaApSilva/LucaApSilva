@@ -15,4 +15,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasApSilva_icons=true)](https://github.com/LucaApSilva/LucaApSilva)
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasApSilva&show_icons=true&theme=radical)
